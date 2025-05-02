@@ -679,6 +679,12 @@
       "value": "Check deposit contract details"
     }
   ],
+  "1iI5Ju": [
+    {
+      "type": 0,
+      "value": "Consolidation requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
+    }
+  ],
   "1ingnQ": [
     {
       "type": 0,
@@ -1369,6 +1375,12 @@
       "value": " validator"
     }
   ],
+  "6/hnxI": [
+    {
+      "type": 0,
+      "value": "Target validator is not active"
+    }
+  ],
   "63gLLu": [
     {
       "type": 0,
@@ -1731,6 +1743,12 @@
       "value": "Configure Teku"
     }
   ],
+  "8J6IfS": [
+    {
+      "type": 0,
+      "value": "Filter your validators by index or pubkey or search by pubkey"
+    }
+  ],
   "8JtiQS": [
     {
       "type": 0,
@@ -1747,6 +1765,12 @@
     {
       "type": 0,
       "value": "Transfer entire balance to another one of your validator accounts, consolidating two accounts into one. Target account must be upgraded to compounding type."
+    }
+  ],
+  "8WAAtu": [
+    {
+      "type": 0,
+      "value": "To upgrade to a Type 2 validator, please go back, select the target validator, and go through the 'Upgrade Validator' flow."
     }
   ],
   "8WtyrD": [
@@ -1817,12 +1841,6 @@
     {
       "type": 0,
       "value": " - epoch at which your validator funds are eligible for a full withdrawal during the next validator sweep."
-    }
-  ],
-  "8uE+mp": [
-    {
-      "type": 0,
-      "value": "Filter by index or pubkey"
     }
   ],
   "8uq59n": [
@@ -2113,6 +2131,12 @@
     {
       "type": 0,
       "value": "Become a validator with Lighthouse"
+    }
+  ],
+  "Atjyqe": [
+    {
+      "type": 0,
+      "value": "Target validator is does not have Type 2 credentials and must be upgraded before funds can be pushed to it."
     }
   ],
   "Aw1mMs": [
@@ -2621,6 +2645,12 @@
       "value": "5. Time to deposit"
     }
   ],
+  "ETn48e": [
+    {
+      "type": 0,
+      "value": "Upgrade and consolidation requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
+    }
+  ],
   "EXLB88": [
     {
       "type": 0,
@@ -3009,6 +3039,20 @@
     {
       "type": 0,
       "value": "Configure your execution client"
+    }
+  ],
+  "HV2kN4": [
+    {
+      "type": 0,
+      "value": "Please type 'I TRANSFER MY FULL VALIDATOR BALANCE TO THE OWNER OF "
+    },
+    {
+      "type": 1,
+      "value": "targetIndex"
+    },
+    {
+      "type": 0,
+      "value": "' to acknowledge you understand where your validator balance is being transferred to."
     }
   ],
   "HX93/h": [
@@ -4333,6 +4377,12 @@
       "value": "Your network has changed"
     }
   ],
+  "PF61Eu": [
+    {
+      "type": 0,
+      "value": "Exit requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
+    }
+  ],
   "PHZO0L": [
     {
       "type": 0,
@@ -4579,6 +4629,12 @@
       "value": "congratulations"
     }
   ],
+  "Ra6IrH": [
+    {
+      "type": 0,
+      "value": "Target validator is not associated with your current wallet!"
+    }
+  ],
   "RhR6+a": [
     {
       "type": 0,
@@ -4697,12 +4753,6 @@
       "value": " withdrawal credentials and has broadcast a voluntary exit, there is no further action required until the processing is complete."
     }
   ],
-  "Sa8NCw": [
-    {
-      "type": 0,
-      "value": "No eligible target accounts found."
-    }
-  ],
   "SaR1pU": [
     {
       "type": 0,
@@ -4749,6 +4799,12 @@
     {
       "type": 0,
       "value": "exiting the validator you choose above"
+    }
+  ],
+  "Sjv4KR": [
+    {
+      "type": 0,
+      "value": "A validator can only be consolidated to if it is in the proper state of active/online."
     }
   ],
   "SqKNq2": [
@@ -5087,6 +5143,12 @@
     {
       "type": 0,
       "value": "I am certain that the validator I am topping up is my validator."
+    }
+  ],
+  "VlItBm": [
+    {
+      "type": 0,
+      "value": "Withdraw requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
     }
   ],
   "Vm6cRY": [
@@ -9001,6 +9063,12 @@
     {
       "type": 0,
       "value": "Generate key pairs"
+    }
+  ],
+  "udj2WS": [
+    {
+      "type": 0,
+      "value": "More on upgrading a validator with Type 0 credentials."
     }
   ],
   "uhapiE": [

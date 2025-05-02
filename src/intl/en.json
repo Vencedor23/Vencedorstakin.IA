@@ -260,6 +260,9 @@
   "1fytak": {
     "message": "Check deposit contract details"
   },
+  "1iI5Ju": {
+    "message": "Consolidation requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
+  },
   "1ingnQ": {
     "message": "More on Ethereum staking economics"
   },
@@ -489,6 +492,9 @@
   "5v36Is": {
     "message": "Exiting a {client} validator"
   },
+  "6/hnxI": {
+    "message": "Target validator is not active"
+  },
   "63gLLu": {
     "message": "average"
   },
@@ -620,6 +626,9 @@
   "8HxLGA": {
     "message": "Configure Teku"
   },
+  "8J6IfS": {
+    "message": "Filter your validators by index or pubkey or search by pubkey"
+  },
   "8JtiQS": {
     "message": "Does the contract address listed on the website match?"
   },
@@ -628,6 +637,9 @@
   },
   "8VlOTO": {
     "message": "Transfer entire balance to another one of your validator accounts, consolidating two accounts into one. Target account must be upgraded to compounding type."
+  },
+  "8WAAtu": {
+    "message": "To upgrade to a Type 2 validator, please go back, select the target validator, and go through the 'Upgrade Validator' flow."
   },
   "8WtyrD": {
     "message": "Spanish"
@@ -655,9 +667,6 @@
   },
   "8rxaqc": {
     "message": "{withdrawableEpochLabel} - epoch at which your validator funds are eligible for a full withdrawal during the next validator sweep."
-  },
-  "8uE+mp": {
-    "message": "Filter by index or pubkey"
   },
   "8uq59n": {
     "message": "Signal your intent to exit staking by signing and broadcasting a voluntary exit message to the network using your validator keys and validator client"
@@ -782,6 +791,9 @@
   },
   "Anqi3n": {
     "message": "Become a validator with Lighthouse"
+  },
+  "Atjyqe": {
+    "message": "Target validator is does not have Type 2 credentials and must be upgraded before funds can be pushed to it."
   },
   "Aw1mMs": {
     "message": "Top up validator"
@@ -990,6 +1002,9 @@
   "EThT2C": {
     "message": "5. Time to deposit"
   },
+  "ETn48e": {
+    "message": "Upgrade and consolidation requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
+  },
   "EXLB88": {
     "message": "This is a test network ⚠️"
   },
@@ -1143,6 +1158,9 @@
   },
   "HMgrdg": {
     "message": "Configure your execution client"
+  },
+  "HV2kN4": {
+    "message": "Please type 'I TRANSFER MY FULL VALIDATOR BALANCE TO THE OWNER OF {targetIndex}' to acknowledge you understand where your validator balance is being transferred to."
   },
   "HX93/h": {
     "message": "Setting a withdrawal address is considered best security practice. If this is not provided now, your deposited funds will remain locked on the Beacon Chain until an address is provided. Unlocking will require signing a message with your BLS withdrawal keys, generated from your mnemonic seed phrase (so keep it safe)."
@@ -1635,6 +1653,9 @@
   "P9mVZK": {
     "message": "Your network has changed"
   },
+  "PF61Eu": {
+    "message": "Exit requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
+  },
   "PHZO0L": {
     "message": "Launchpad walkthrough tutorial"
   },
@@ -1741,6 +1762,9 @@
   "RWqrlk": {
     "message": "congratulations"
   },
+  "Ra6IrH": {
+    "message": "Target validator is not associated with your current wallet!"
+  },
   "RhR6+a": {
     "message": "We'll guide you through setting a withdrawal address for your validator. This is considered best-practice, and strongly recommended for safety and security reasons."
   },
@@ -1793,9 +1817,6 @@
   "SVUntz": {
     "message": "Note that once a user has {type1} withdrawal credentials and has broadcast a voluntary exit, there is no further action required until the processing is complete."
   },
-  "Sa8NCw": {
-    "message": "No eligible target accounts found."
-  },
   "SaR1pU": {
     "message": "Deposit already exists"
   },
@@ -1819,6 +1840,9 @@
   },
   "SepcV5": {
     "message": "exiting the validator you choose above"
+  },
+  "Sjv4KR": {
+    "message": "A validator can only be consolidated to if it is in the proper state of active/online."
   },
   "SqKNq2": {
     "description": "{homebrew} = 'homebrew' and links to the homebrew package manager website documentation",
@@ -1950,6 +1974,9 @@
   },
   "VctWDX": {
     "message": "I am certain that the validator I am topping up is my validator."
+  },
+  "VlItBm": {
+    "message": "Withdraw requests enter a separate queue with a small fee, shown as the transaction's send amount. The fee is minimal when the queue is short, with a small buffer added to prevent rejections from sudden activity spikes."
   },
   "Vm6cRY": {
     "message": "This communication is secured using a {jwt} secret, which is a secret key that is shared only between the two clients to authenticate one another. This shared JWT secret must be made available to each client (both execution and consensus clients) to allow them to communicate with one another properly."
@@ -3389,6 +3416,9 @@
   },
   "ubKWX8": {
     "message": "Generate key pairs"
+  },
+  "udj2WS": {
+    "message": "More on upgrading a validator with Type 0 credentials."
   },
   "uhapiE": {
     "message": "Ensure your bandwidth can't be throttled and isn't capped so your node stays in sync and will be ready to validate when called."
