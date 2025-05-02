@@ -5,7 +5,7 @@ The [Launchpad](https://launchpad.ethereum.org/) is the Ethereum Foundation's of
 ## Dependencies
 
   - **Technology stack**: 
-    - [React](https://reactjs.org/) via [CRA](https://reactjs.org/docs/create-a-new-react-app.html)
+     - [React](https://reactjs.org/) via [CRA](https://reactjs.org/docs/create-a-new-react-app.html)
     - [Redux](https://redux.js.org/)
     - [TypeScript](https://www.typescriptlang.org/)
     - [Web3-React](https://github.com/NoahZinsmeister/web3-react)
