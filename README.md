@@ -1,4 +1,4 @@
-# Ethereum Staking Launchpad
+#  Ethereum Staking Launchpad
 
 The [Launchpad](https://launchpad.ethereum.org/) is the Ethereum Foundation's official way to deposit your ETH for staking on Ethereum
 
